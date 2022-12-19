@@ -30,5 +30,5 @@ The winning candidate was Diana DeGette. She won with a total of 272,892 votes w
 
 ## Summary
 Based upon the successful running of this script for the county elections there are multiple uses for this template. With some modifications this script can be used for the following:
-    * State wide elections with additional counties and candidate roles. This would involve expanding the candidate information but the county information should transfer over smoothly. 
-    * Any election involving measures in lieu of candidates. The candidate information would need to be updated to return measure information. 
+* State wide elections with additional counties and candidate roles. This would involve expanding the candidate information but the county information should transfer over smoothly. 
+* Any election involving measures in lieu of candidates. The candidate information would need to be updated to return measure information. 
